@@ -1,4 +1,4 @@
-# 转自https://github.com/icowan/redis-tool，非常好用的工具
+# 非常好用的工具转自https://github.com/icowan/redis-tool
 # redis-tool Redis迁移工具
 
 在平时工作有可能会遇到全并Redis、拆分Redis、Redis单点到集群的迁移问题。
